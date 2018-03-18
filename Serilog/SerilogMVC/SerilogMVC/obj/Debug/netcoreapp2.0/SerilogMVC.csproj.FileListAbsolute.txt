@@ -1,0 +1,11 @@
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogMVC\SerilogMVC\obj\Debug\netcoreapp2.0\SerilogMVC.csprojResolveAssemblyReference.cache
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogMVC\SerilogMVC\obj\Debug\netcoreapp2.0\SerilogMVC.csproj.CoreCompileInputs.cache
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogMVC\SerilogMVC\obj\Debug\netcoreapp2.0\SerilogMVC.AssemblyInfoInputs.cache
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogMVC\SerilogMVC\obj\Debug\netcoreapp2.0\SerilogMVC.AssemblyInfo.cs
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogMVC\SerilogMVC\bin\Debug\netcoreapp2.0\SerilogMVC.deps.json
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogMVC\SerilogMVC\bin\Debug\netcoreapp2.0\SerilogMVC.runtimeconfig.json
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogMVC\SerilogMVC\bin\Debug\netcoreapp2.0\SerilogMVC.runtimeconfig.dev.json
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogMVC\SerilogMVC\bin\Debug\netcoreapp2.0\SerilogMVC.dll
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogMVC\SerilogMVC\bin\Debug\netcoreapp2.0\SerilogMVC.pdb
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogMVC\SerilogMVC\obj\Debug\netcoreapp2.0\SerilogMVC.dll
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogMVC\SerilogMVC\obj\Debug\netcoreapp2.0\SerilogMVC.pdb
