@@ -1,0 +1,2 @@
+2018-03-10 14:34:40.752 +05:30 [Information] Just trying the logger Person { FirstName: "Jay", LastName: "Nelli" }
+2018-03-10 14:34:46.658 +05:30 [Information] Executing ViewResult, running view at path "/Views/Home/Index.cshtml".

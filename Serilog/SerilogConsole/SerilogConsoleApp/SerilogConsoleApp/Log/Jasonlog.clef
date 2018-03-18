@@ -1,0 +1,2 @@
+{"@t":"2018-02-06T05:26:33.9204776Z","@mt":"An appointment is booked successfully: {@appountment}","appountment":{"Id":1,"Subject":"Appointment Booking","Timestamp":"2018-02-02T00:00:00.0000000"}}
+{"@t":"2018-02-06T05:26:33.9384030Z","@mt":"Failed to book an appointment: {@appountment}","@l":"Error","appountment":{"Id":2,"Subject":"Appointment Booking","Timestamp":"2018-02-02T00:00:00.0000000"}}

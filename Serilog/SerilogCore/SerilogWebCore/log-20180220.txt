@@ -1,0 +1,65 @@
+2018-02-20 15:15:28.396 +05:30 [Information] Kandathil - at 98283703
+2018-02-20 15:15:28.488 +05:30 [Error] Kandathil - This is a critical Error
+2018-02-20 15:15:28.489 +05:30 [Warning] Kandathil - Just a final warning
+2018-02-20 15:15:31.487 +05:30 [Information] User profile is available. Using '"C:\Users\Jayadev_nellikatt_Ka\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2018-02-20 15:15:33.646 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:1705/  
+2018-02-20 15:15:36.589 +05:30 [Information] Executing handler method "OnGet" with arguments (null) - ModelState is Valid
+2018-02-20 15:15:36.893 +05:30 [Information] Executed action "/Index" in 311.6083ms
+2018-02-20 15:15:36.900 +05:30 [Information] Request finished in 3259.5904ms 200 text/html; charset=utf-8
+2018-02-20 15:15:37.188 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:1705/lib/bootstrap/dist/css/bootstrap.css  
+2018-02-20 15:15:37.190 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:1705/css/site.css  
+2018-02-20 15:15:37.191 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:1705/images/banner1.svg  
+2018-02-20 15:15:37.193 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:1705/images/banner2.svg  
+2018-02-20 15:15:37.195 +05:30 [Information] Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.css"'. Physical path: '"C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\wwwroot\lib\bootstrap\dist\css\bootstrap.css"'
+2018-02-20 15:15:37.196 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:1705/images/banner3.svg  
+2018-02-20 15:15:37.196 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:1705/images/banner4.svg  
+2018-02-20 15:15:37.195 +05:30 [Information] Sending file. Request path: '"/images/banner1.svg"'. Physical path: '"C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\wwwroot\images\banner1.svg"'
+2018-02-20 15:15:37.195 +05:30 [Information] Sending file. Request path: '"/css/site.css"'. Physical path: '"C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\wwwroot\css\site.css"'
+2018-02-20 15:15:37.198 +05:30 [Information] Sending file. Request path: '"/images/banner2.svg"'. Physical path: '"C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\wwwroot\images\banner2.svg"'
+2018-02-20 15:15:37.211 +05:30 [Information] Sending file. Request path: '"/images/banner3.svg"'. Physical path: '"C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\wwwroot\images\banner3.svg"'
+2018-02-20 15:15:37.213 +05:30 [Information] Sending file. Request path: '"/images/banner4.svg"'. Physical path: '"C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\wwwroot\images\banner4.svg"'
+2018-02-20 15:15:37.224 +05:30 [Information] Request finished in 31.0805ms 200 image/svg+xml
+2018-02-20 15:15:37.228 +05:30 [Information] Request finished in 37.7441ms 200 text/css
+2018-02-20 15:15:37.241 +05:30 [Information] Request finished in 53.1071ms 200 text/css
+2018-02-20 15:15:37.241 +05:30 [Information] Request finished in 45.1432ms 200 image/svg+xml
+2018-02-20 15:15:37.241 +05:30 [Information] Request finished in 48.1457ms 200 image/svg+xml
+2018-02-20 15:15:37.245 +05:30 [Information] Request finished in 49.3778ms 200 image/svg+xml
+2018-02-20 15:15:37.282 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:1705/lib/bootstrap/dist/js/bootstrap.js  
+2018-02-20 15:15:37.311 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:1705/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot?  
+2018-02-20 15:15:37.313 +05:30 [Information] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.js"'. Physical path: '"C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\wwwroot\lib\bootstrap\dist\js\bootstrap.js"'
+2018-02-20 15:15:37.322 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:1705/lib/jquery/dist/jquery.js  
+2018-02-20 15:15:37.326 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:1705/js/site.js?v=EWaMeWsJBYWmL2g_KkgXZQ5nPe-a3Ichp0LEgzXczKo  
+2018-02-20 15:15:37.327 +05:30 [Information] Request finished in 45.7435ms 200 application/javascript
+2018-02-20 15:15:37.334 +05:30 [Information] Sending file. Request path: '"/lib/jquery/dist/jquery.js"'. Physical path: '"C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\wwwroot\lib\jquery\dist\jquery.js"'
+2018-02-20 15:15:37.377 +05:30 [Information] Sending file. Request path: '"/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot"'. Physical path: '"C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.eot"'
+2018-02-20 15:15:37.392 +05:30 [Information] Request finished in 81.1301ms 200 application/vnd.ms-fontobject
+2018-02-20 15:15:37.397 +05:30 [Information] Request finished in 75.3803ms 200 application/javascript
+2018-02-20 15:15:37.441 +05:30 [Information] Sending file. Request path: '"/js/site.js"'. Physical path: '"C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\wwwroot\js\site.js"'
+2018-02-20 15:15:37.463 +05:30 [Information] Request finished in 136.9075ms 200 application/javascript
+2018-02-20 15:15:37.633 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:1705/favicon.ico  
+2018-02-20 15:15:37.635 +05:30 [Information] Sending file. Request path: '"/favicon.ico"'. Physical path: '"C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\wwwroot\favicon.ico"'
+2018-02-20 15:15:37.644 +05:30 [Information] Request finished in 10.4284ms 200 image/x-icon
+2018-02-20 15:16:11.374 +05:30 [Information] Kandathil - at 98326687
+2018-02-20 15:16:11.465 +05:30 [Error] Kandathil - This is a critical Error
+2018-02-20 15:16:11.467 +05:30 [Warning] Kandathil - Just a final warning
+2018-02-20 15:16:14.895 +05:30 [Information] User profile is available. Using '"C:\Users\Jayadev_nellikatt_Ka\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2018-02-20 15:16:17.009 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:1705/  
+2018-02-20 15:16:19.862 +05:30 [Information] Executing handler method "OnGet" with arguments (null) - ModelState is Valid
+2018-02-20 15:16:20.194 +05:30 [Information] Executed action "/Index" in 342.0326ms
+2018-02-20 15:16:20.201 +05:30 [Information] Request finished in 3197.1358ms 200 text/html; charset=utf-8
+2018-02-20 15:16:46.264 +05:30 [Information] Test Kandathil - at 98361578
+2018-02-20 15:16:46.353 +05:30 [Error] Test Kandathil - This is a critical Error
+2018-02-20 15:16:46.355 +05:30 [Warning] Test Kandathil - Just a final warning
+2018-02-20 15:16:51.416 +05:30 [Information] User profile is available. Using '"C:\Users\Jayadev_nellikatt_Ka\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2018-02-20 15:16:53.436 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:1705/  
+2018-02-20 15:16:56.581 +05:30 [Information] Executing handler method "OnGet" with arguments (null) - ModelState is Valid
+2018-02-20 15:16:56.908 +05:30 [Information] Executed action "/Index" in 338.2553ms
+2018-02-20 15:16:56.914 +05:30 [Information] Request finished in 3485.5263ms 200 text/html; charset=utf-8
+2018-02-20 15:17:43.652 +05:30 [Information] Test Kandathil - at 98418968
+2018-02-20 15:17:43.743 +05:30 [Error] Test Kandathil - This is a critical Error
+2018-02-20 15:17:43.745 +05:30 [Warning] Test Kandathil - Just a final warning
+2018-02-20 15:17:46.865 +05:30 [Information] User profile is available. Using '"C:\Users\Jayadev_nellikatt_Ka\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2018-02-20 15:17:48.789 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:1705/  
+2018-02-20 15:17:51.889 +05:30 [Information] Executing handler method "OnGet" with arguments (null) - ModelState is Valid
+2018-02-20 15:17:52.182 +05:30 [Information] Executed action "/Index" in 301.2958ms
+2018-02-20 15:17:52.192 +05:30 [Information] Request finished in 3407.4935ms 200 text/html; charset=utf-8

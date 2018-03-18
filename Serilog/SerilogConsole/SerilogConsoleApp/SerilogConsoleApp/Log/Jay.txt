@@ -1,0 +1,6 @@
+2018-02-20 15:29:00.931 +05:30 [Information] New appointment is booked successfully: { Id: 1, Subject: "New Appointment Booking", Timestamp: 02/02/2018 00:00:00 }
+2018-02-20 15:29:00.995 +05:30 [Error] Failed to book an appointment: { Id: 2, Subject: "New Appointment Booking", Timestamp: 02/02/2018 00:00:00 }
+2018-02-20 15:29:14.909 +05:30 [Information] New appointment is booked successfully: { Id: 1, Subject: "New Appointment Booking", Timestamp: 02/02/2018 00:00:00 }
+2018-02-20 15:29:14.970 +05:30 [Error] Failed to book an appointment: { Id: 2, Subject: "New Appointment Booking", Timestamp: 02/02/2018 00:00:00 }
+2018-02-20 15:40:25.503 +05:30 [Information] New appointment is booked successfully: { Id: 1, Subject: "New Appointment Booking", Timestamp: 02/02/2018 00:00:00 }
+2018-02-20 15:40:25.598 +05:30 [Error] Failed to book an appointment: { Id: 2, Subject: "New Appointment Booking", Timestamp: 02/02/2018 00:00:00 }

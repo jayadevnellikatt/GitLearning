@@ -1,0 +1,48 @@
+2018-03-10 14:29:34.724 +05:30 [Information] Testttt - Executed by Dev[Program] at 66369890
+2018-03-10 14:29:34.838 +05:30 [Error] Test - An errorrrr has occured
+2018-03-10 14:29:34.840 +05:30 [Warning] Test - Kibanaaaaa - Only warning
+2018-03-10 14:31:45.167 +05:30 [Information] Testttt - Executed by Dev[Program] at 66500343
+2018-03-10 14:31:45.281 +05:30 [Error] Test - An errorrrr has occured
+2018-03-10 14:31:45.283 +05:30 [Warning] Test - Kibanaaaaa - Only warning
+2018-03-10 14:32:25.445 +05:30 [Information] Test - Executed by Dev[Program] at 66540625
+2018-03-10 14:32:25.570 +05:30 [Error] Test - An error has occured
+2018-03-10 14:32:25.572 +05:30 [Warning] Test - Kibana - Only warning
+2018-03-10 14:33:18.996 +05:30 [Information] Test - Executed by Dev[Program] at 66594171
+2018-03-10 14:33:19.101 +05:30 [Error] Test - An error has occured
+2018-03-10 14:33:19.102 +05:30 [Warning] Test - Kibana - Only warning
+2018-03-10 14:33:53.679 +05:30 [Information] User profile is available. Using '"C:\Users\Jayadev_nellikatt_Ka\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2018-03-10 14:34:11.838 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:29685/  
+2018-03-10 14:34:12.123 +05:30 [Information] Executing action method "SerilogMVC.Controllers.HomeController.Index (SerilogMVC)" with arguments (null) - ModelState is Valid
+2018-03-10 14:34:40.692 +05:30 [Warning] Heartbeat took longer than "00:00:01" at "03/10/2018 09:04:40 +00:00".
+2018-03-10 14:34:47.158 +05:30 [Information] Executed action "SerilogMVC.Controllers.HomeController.Index (SerilogMVC)" in 35096.7774ms
+2018-03-10 14:34:47.180 +05:30 [Information] Request finished in 35350.7714ms 200 text/html; charset=utf-8
+2018-03-10 14:34:47.226 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:29685/css/site.css  
+2018-03-10 14:34:47.234 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:29685/images/banner1.svg  
+2018-03-10 14:34:47.264 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:29685/lib/bootstrap/dist/css/bootstrap.css  
+2018-03-10 14:34:47.284 +05:30 [Information] The file "/css/site.css" was not modified
+2018-03-10 14:34:47.295 +05:30 [Information] The file "/images/banner1.svg" was not modified
+2018-03-10 14:34:47.326 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:29685/images/banner4.svg  
+2018-03-10 14:34:47.365 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:29685/images/banner2.svg  
+2018-03-10 14:34:47.382 +05:30 [Information] The file "/images/banner4.svg" was not modified
+2018-03-10 14:34:47.400 +05:30 [Information] The file "/lib/bootstrap/dist/css/bootstrap.css" was not modified
+2018-03-10 14:34:47.462 +05:30 [Information] The file "/images/banner2.svg" was not modified
+2018-03-10 14:34:47.613 +05:30 [Information] Request finished in 379.0477ms 304 image/svg+xml
+2018-03-10 14:34:47.693 +05:30 [Information] Request finished in 466.548ms 304 text/css
+2018-03-10 14:34:47.700 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:29685/images/banner3.svg  
+2018-03-10 14:34:47.715 +05:30 [Information] Request finished in 349.8625ms 304 image/svg+xml
+2018-03-10 14:34:47.731 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:29685/lib/bootstrap/dist/js/bootstrap.js  
+2018-03-10 14:34:47.743 +05:30 [Information] Request finished in 416.7741ms 304 image/svg+xml
+2018-03-10 14:34:47.760 +05:30 [Information] Request finished in 496.4773ms 304 text/css
+2018-03-10 14:34:47.777 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:29685/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2  
+2018-03-10 14:34:47.810 +05:30 [Information] The file "/images/banner3.svg" was not modified
+2018-03-10 14:34:47.829 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:29685/lib/jquery/dist/jquery.js  
+2018-03-10 14:34:47.865 +05:30 [Information] The file "/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" was not modified
+2018-03-10 14:34:47.881 +05:30 [Information] The file "/lib/bootstrap/dist/js/bootstrap.js" was not modified
+2018-03-10 14:34:47.915 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:29685/js/site.js?v=ji3-IxbEzYWjzzLCGkF1KDjrT2jLbbrSYXw-AhMPNIA  
+2018-03-10 14:34:47.969 +05:30 [Information] The file "/lib/jquery/dist/jquery.js" was not modified
+2018-03-10 14:34:47.981 +05:30 [Information] The file "/js/site.js" was not modified
+2018-03-10 14:34:48.098 +05:30 [Information] Request finished in 367.0017ms 304 application/javascript
+2018-03-10 14:34:48.158 +05:30 [Information] Request finished in 458.2721ms 304 image/svg+xml
+2018-03-10 14:34:48.187 +05:30 [Information] Request finished in 358.1248ms 304 application/javascript
+2018-03-10 14:34:48.204 +05:30 [Information] Request finished in 426.8838ms 304 font/woff2
+2018-03-10 14:34:48.279 +05:30 [Information] Request finished in 363.9776ms 304 application/javascript
