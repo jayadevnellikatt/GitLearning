@@ -1,0 +1,11 @@
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\bin\Debug\netcoreapp2.0\SerilogWebCore.deps.json
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\bin\Debug\netcoreapp2.0\SerilogWebCore.runtimeconfig.json
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\bin\Debug\netcoreapp2.0\SerilogWebCore.runtimeconfig.dev.json
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\bin\Debug\netcoreapp2.0\SerilogWebCore.dll
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\obj\Debug\netcoreapp2.0\SerilogWebCore.csprojResolveAssemblyReference.cache
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\obj\Debug\netcoreapp2.0\SerilogWebCore.csproj.CoreCompileInputs.cache
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\obj\Debug\netcoreapp2.0\SerilogWebCore.AssemblyInfoInputs.cache
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\obj\Debug\netcoreapp2.0\SerilogWebCore.AssemblyInfo.cs
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\bin\Debug\netcoreapp2.0\SerilogWebCore.pdb
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\obj\Debug\netcoreapp2.0\SerilogWebCore.dll
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogCore\SerilogWebCore\obj\Debug\netcoreapp2.0\SerilogWebCore.pdb

@@ -1,0 +1,12 @@
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogConsole\SerilogConsoleApp\SerilogConsoleApp\obj\Debug\netcoreapp2.0\SerilogConsoleApp.csprojResolveAssemblyReference.cache
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogConsole\SerilogConsoleApp\SerilogConsoleApp\obj\Debug\netcoreapp2.0\SerilogConsoleApp.csproj.CoreCompileInputs.cache
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogConsole\SerilogConsoleApp\SerilogConsoleApp\obj\Debug\netcoreapp2.0\SerilogConsoleApp.AssemblyInfoInputs.cache
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogConsole\SerilogConsoleApp\SerilogConsoleApp\obj\Debug\netcoreapp2.0\SerilogConsoleApp.AssemblyInfo.cs
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogConsole\SerilogConsoleApp\SerilogConsoleApp\bin\Debug\netcoreapp2.0\SerilogConsoleApp.dll.config
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogConsole\SerilogConsoleApp\SerilogConsoleApp\bin\Debug\netcoreapp2.0\SerilogConsoleApp.deps.json
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogConsole\SerilogConsoleApp\SerilogConsoleApp\bin\Debug\netcoreapp2.0\SerilogConsoleApp.runtimeconfig.json
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogConsole\SerilogConsoleApp\SerilogConsoleApp\bin\Debug\netcoreapp2.0\SerilogConsoleApp.runtimeconfig.dev.json
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogConsole\SerilogConsoleApp\SerilogConsoleApp\bin\Debug\netcoreapp2.0\SerilogConsoleApp.dll
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogConsole\SerilogConsoleApp\SerilogConsoleApp\bin\Debug\netcoreapp2.0\SerilogConsoleApp.pdb
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogConsole\SerilogConsoleApp\SerilogConsoleApp\obj\Debug\netcoreapp2.0\SerilogConsoleApp.dll
+C:\Jayadev\DemoProjects\Core\Serilog\SerilogConsole\SerilogConsoleApp\SerilogConsoleApp\obj\Debug\netcoreapp2.0\SerilogConsoleApp.pdb

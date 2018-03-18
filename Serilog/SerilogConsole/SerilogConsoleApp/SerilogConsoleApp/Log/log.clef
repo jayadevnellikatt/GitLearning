@@ -1,0 +1,14 @@
+{"@t":"2018-02-15T15:32:26.8420993Z","@mt":"An appointment is booked successfully: {@appountment}","appountment":{"Id":1,"Subject":"Appointment Booking","Timestamp":"2018-02-02T00:00:00.0000000"}}
+{"@t":"2018-02-15T15:32:26.9419690Z","@mt":"Failed to book an appointment: {@appountment}","@l":"Error","appountment":{"Id":2,"Subject":"Appointment Booking","Timestamp":"2018-02-02T00:00:00.0000000"}}
+{"@t":"2018-02-20T09:41:43.9886751Z","@mt":"An appointment is booked successfully: {@appountment}","appountment":{"Id":1,"Subject":"Appointment Booking","Timestamp":"2018-02-02T00:00:00.0000000"}}
+{"@t":"2018-02-20T09:41:44.0872459Z","@mt":"Failed to book an appointment: {@appountment}","@l":"Error","appountment":{"Id":2,"Subject":"Appointment Booking","Timestamp":"2018-02-02T00:00:00.0000000"}}
+{"@t":"2018-02-20T09:42:03.2886781Z","@mt":"An appointment is booked successfully: {@appountment}","appountment":{"Id":1,"Subject":"Appointment Booking","Timestamp":"2018-02-02T00:00:00.0000000"}}
+{"@t":"2018-02-20T09:42:03.3883699Z","@mt":"Failed to book an appointment: {@appountment}","@l":"Error","appountment":{"Id":2,"Subject":"Appointment Booking","Timestamp":"2018-02-02T00:00:00.0000000"}}
+{"@t":"2018-02-20T09:43:53.2403491Z","@mt":"New appointment is booked successfully: {@appointment}","appointment":{"Id":1,"Subject":"New Appointment Booking","Timestamp":"2018-02-02T00:00:00.0000000"}}
+{"@t":"2018-02-20T09:43:53.3482948Z","@mt":"Failed to book an appointment: {@appointment}","@l":"Error","appointment":{"Id":2,"Subject":"New Appointment Booking","Timestamp":"2018-02-02T00:00:00.0000000"}}
+{"@t":"2018-02-20T09:59:00.9312599Z","@mt":"New appointment is booked successfully: {@appointment}","appointment":{"Id":1,"Subject":"New Appointment Booking","Timestamp":"2018-02-02T00:00:00.0000000"}}
+{"@t":"2018-02-20T09:59:00.9951992Z","@mt":"Failed to book an appointment: {@appointment}","@l":"Error","appointment":{"Id":2,"Subject":"New Appointment Booking","Timestamp":"2018-02-02T00:00:00.0000000"}}
+{"@t":"2018-02-20T09:59:14.9099466Z","@mt":"New appointment is booked successfully: {@appointment}","appointment":{"Id":1,"Subject":"New Appointment Booking","Timestamp":"2018-02-02T00:00:00.0000000"}}
+{"@t":"2018-02-20T09:59:14.9701553Z","@mt":"Failed to book an appointment: {@appointment}","@l":"Error","appointment":{"Id":2,"Subject":"New Appointment Booking","Timestamp":"2018-02-02T00:00:00.0000000"}}
+{"@t":"2018-02-20T10:10:25.5031548Z","@mt":"New appointment is booked successfully: {@appointment}","appointment":{"Id":1,"Subject":"New Appointment Booking","Timestamp":"2018-02-02T00:00:00.0000000"}}
+{"@t":"2018-02-20T10:10:25.5987524Z","@mt":"Failed to book an appointment: {@appointment}","@l":"Error","appointment":{"Id":2,"Subject":"New Appointment Booking","Timestamp":"2018-02-02T00:00:00.0000000"}}
